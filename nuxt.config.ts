@@ -5,9 +5,9 @@ export default defineNuxtConfig({
       htmlAttrs: {
         lang: 'en',
       },
-      title: 'Gloria Rodríguez Fernández',
+      title: 'Gloria Rodríguez - Software Developer',
       meta: [
-        { name: 'description', content: 'Frontend Developer. Never stop learning. Animal lover. Sports' }
+        { name: 'description', content: 'Software Developer. Never stop learning. Animal lover. Sports' }
       ],
     },
   },

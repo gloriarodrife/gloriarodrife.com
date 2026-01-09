@@ -50,7 +50,7 @@
     </section>
     <section class="section_about">
       <section class="about_description">
-        <p>👩🏽‍💻 Frontend Developer</p>
+        <p>👩🏽‍💻 Software Developer</p>
         <p>🌱 Never stop learning</p>
         <p>🐶 Animal lover</p>
         <p>🏃🏽‍♀️ Sports</p>
